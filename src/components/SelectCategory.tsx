@@ -21,16 +21,6 @@ const SelectCategory = () => {
           recent works
         </button>
         <button
-          onClick={() => setCurrentIndex(1)}
-          className={`transition-all cursor-pointer select-none flex-1 flex items-center justify-center hover:bg-zinc-800 hover:border-b-4 hover:border-red-900 ${
-            currentIndex === 1
-              ? "bg-zinc-800 border-b-4 border-red-900"
-              : "border-b-4 border-transparent"
-          }`}
-        >
-          recent posts
-        </button>
-        <button
           onClick={() => setCurrentIndex(2)}
           className={`transition-all cursor-pointer select-none flex-1 flex items-center justify-center hover:bg-zinc-800 hover:border-b-4 hover:border-red-900 ${
             currentIndex === 2
