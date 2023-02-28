@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nerd Emoji 3D
+* source:	https://sketchfab.com/3d-models/nerd-emoji-3d-541a73eb323a49e0b3a868c475a8d7d4
+* author:	sparemilk (https://sketchfab.com/sparemilk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nerd Emoji 3D" (https://sketchfab.com/3d-models/nerd-emoji-3d-541a73eb323a49e0b3a868c475a8d7d4) by sparemilk (https://sketchfab.com/sparemilk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
